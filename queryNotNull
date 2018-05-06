@@ -1,0 +1,3 @@
+ALTER TABLE `licitacao_carga_bec`.`hack_tb_bec_lic_item`
+CHANGE COLUMN `cnpj_vencedor` `cnpj_vencedor` LONGTEXT CHARACTER SET 'utf8mb4' COLLATE 'utf8mb4_unicode_ci' NULL ,
+CHANGE COLUMN `nm_fornecedor` `nm_fornecedor` LONGTEXT CHARACTER SET 'utf8mb4' COLLATE 'utf8mb4_unicode_ci' NULL ;

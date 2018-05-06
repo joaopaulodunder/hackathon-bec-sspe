@@ -1,0 +1,1 @@
+$("#custo").maskMoney({allowNegative: false, thousands:'.', decimal:',', affixesStay: false});

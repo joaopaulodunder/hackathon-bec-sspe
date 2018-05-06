@@ -1,0 +1,31 @@
+.skin-josh .logo{
+    background-color: #0055a2;
+    font-size: 20px;
+}
+.skin-josh .logo img{
+    margin-top: -7px;
+    height: 35px;
+}
+.skin-josh .navbar{
+    background-color: #0055a2;
+}
+
+/*Hack*/
+.panel-hack {
+    border-color: #0f86f3;
+}
+
+.panel-hack > .panel-heading, .panel-hack > .panel-heading a {
+    color: #fff;
+    background-color: #0f86f3;
+    border-color: #0f86f3;
+}
+
+.panel-hack > .panel-heading + .panel-collapse .panel-body {
+    border-top-color: #0f86f3;
+}
+
+.panel-hack > .panel-footer + .panel-collapse .panel-body {
+    border-bottom-color: #0f86f3;
+}
+
